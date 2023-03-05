@@ -22,7 +22,7 @@ This is a test post to check out creating and posting blog posts on the site. I 
 Here is the photo :)
 
 ```{r}
-knitr::include_graphics("DJI_0334 (Small).jpg")
+knitr::include_graphics("DJI_0334.jpg")
 ```
 
 Now I'm going to try and embed some R code.
