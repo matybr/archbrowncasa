@@ -1,0 +1,38 @@
+---
+title: "Working out the bugs"
+author:
+  - name: Matthew Brown
+date: 2023-03-05
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is a test post to check out creating and posting blog posts on the site. I will try to:
+
+1. embed a photo
+2. embed R code
+
+Here is the photo :)
+
+```{r}
+knitr::include_graphics("DJI_0334 (Small).jpg")
+```
+
+Now I'm going to try and embed some R code.
+
+```{r, layout="1-body-outset", fig.width=6, fig.height=1.5}
+library(tidyverse)
+library(ggplot2)
+ggplot(diamonds, aes(carat, price)) +
+  geom_smooth() +
+  facet_grid(~ cut)
+```
+
+

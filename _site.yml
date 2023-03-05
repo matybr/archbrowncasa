@@ -1,0 +1,16 @@
+name: "website_test"
+title: "archbrown"
+description: |
+  archbrown
+theme: before_sleep.css
+output_dir: "matybr.github.io"
+navbar:
+  search: false
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Posts"
+      href: posts.html
+output: distill::distill_article

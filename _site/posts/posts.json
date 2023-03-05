@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2023-03-05-working-out-the-bugs/",
+    "title": "Working out the bugs",
+    "description": {},
+    "author": [
+      {
+        "name": "Matthew Brown",
+        "url": {}
+      }
+    ],
+    "date": "2023-03-05",
+    "categories": [],
+    "contents": "\r\nThis is a test post to check out creating and posting blog posts on the site. I will try to:\r\nembed a photo\r\nembed R code\r\nHere is the photo :)\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-03-05T00:33:22-05:00",
+    "input_file": "working-out-the-bugs.knit.md"
+  }
+]
