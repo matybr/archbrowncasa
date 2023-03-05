@@ -3,7 +3,7 @@ title: "archbrown"
 description: |
   archbrown
 theme: before_sleep.css
-output_dir: "matybr.github.io"
+output_dir: "_site"
 navbar:
   search: false
   right:
