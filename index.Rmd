@@ -8,6 +8,8 @@ site: distill::distill_website
 ```{r out.width='200px', out.extra='style="float:left; padding:22px"', echo=FALSE}
 knitr::include_graphics("images/profile_photo.jpg")
 ```
+
+
 Welcome to the newly launched website!
 I am currently a 4th year PhD Candidate in the Department of Anthropology at the University of Michigan.
 :::
