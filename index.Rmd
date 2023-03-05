@@ -3,14 +3,14 @@ title: "Matthew T. Brown"
 site: distill::distill_website
 ---
 
-```{r echo=FALSE}
+
+:::float-image
+```{r out.width='200px', out.extra='style="float:left; padding:22px"', echo=FALSE}
 knitr::include_graphics("images/profile_photo.jpg")
 ```
-
-
 Welcome to the newly launched website!
 I am currently a 4th year PhD Candidate in the Department of Anthropology at the University of Michigan.
-
+:::
 My primary research interests include:
 
 * Emergence of Complex Societies
