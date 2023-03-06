@@ -5,7 +5,7 @@ site: distill::distill_website
 
 
 :::float-image
-```{r out.width='200px', out.extra='style="float:left; padding:22px"', echo=FALSE}
+```{r out.width='200px', out.extra='style="float:left; padding:20px"', echo=FALSE}
 knitr::include_graphics("images/profile_photo.jpg")
 ```
 
