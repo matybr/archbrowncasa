@@ -9,7 +9,6 @@ site: distill::distill_website
 knitr::include_graphics("images/profile_photo.jpg")
 ```
 
-
 Welcome to the newly launched website!
 I am currently a 4th year PhD Candidate in the Department of Anthropology at the University of Michigan.
 :::
